@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "jon is awesome"
+echo "jon is super awesome"
